@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/anasayfa"
+        android:title="@string/anasayfa_text"
+        android:icon="@drawable/ic_action_youtube_ana_sayfa_icon" />
+    <item android:id="@+id/trendler"
+        android:title="@string/trendler_text"
+        android:icon="@drawable/ic_action_youtube_trendler_icon"/>
+    <item android:id="@+id/abonelikler"
+        android:title="@string/abonelikler_text"
+        android:icon="@drawable/ic_action_youtube_etkinlikler_icon" />
+    <item android:id="@+id/etkinlikler"
+        android:title="@string/etkinlikler_text"
+        android:icon="@drawable/ic_action_youtube_abonelikler_icon" />
+    <item android:id="@+id/kitaplık"
+        android:title="@string/kitaplık_text"
+        android:icon="@drawable/ic_action_youtube_kitaplk_icon" />
+</menu>

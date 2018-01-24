@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ButtonNavigationViewYapimi</string>
+    <string name="anasayfa_text">Ana Sayfa</string>
+    <string name="trendler_text">Trendler</string>
+    <string name="abonelikler_text">Abonelikler</string>
+    <string name="etkinlikler_text">Etkinlikler</string>
+    <string name="kitaplık_text">Kitaplık</string>
+</resources>
